@@ -15,4 +15,4 @@ Run the compiled program using:
 ./graphics
 ```
 
-![GIF](https://github.com/tu-usuario/tu-repositorio/raw/main/ruta/al/archivo/output.gif)
+![GIF](https://raw.githubusercontent.com/senchpimy/GraphicsFun/refs/heads/main/output.gif)
